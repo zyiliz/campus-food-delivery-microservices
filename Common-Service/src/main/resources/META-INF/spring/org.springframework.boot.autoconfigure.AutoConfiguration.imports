@@ -1,0 +1,3 @@
+com.example.config.InterceptorConfig
+com.example.config.PageConfig
+com.example.config.FeignConfig
